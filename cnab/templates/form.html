@@ -1,0 +1,13 @@
+<div>
+  <div>
+    <p>Envie Seu Arquivo CNAB..</p>
+  </div>
+  <div id="fileform">
+    <form method="post" action="" enctype="multipart/form-data">
+      {% csrf_token %} {{ form }}
+      <button type="submit" onmouseover="this.style.cursor='pointer'">
+        Enviar
+      </button>
+    </form>
+  </div>
+</div>
