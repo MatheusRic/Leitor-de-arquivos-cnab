@@ -1,6 +1,8 @@
 ## LEITURA DE ARQUIVOS CNAB
 
-Bem vindos a API que vai automatizar a maneira com que voce le um arquivo CNAB. Basta carregar seu arquivo de texto CNAB e pronto, todos os dados sao exibidos na tela
+Bem vindos a API que vai automatizar a maneira com que voce le um arquivo CNAB. Basta carregar seu arquivo de texto CNAB e pronto, todos os dados sao exibidos na tela.
+
+Para acessar um modelo de arquivo CNAB a ser lido, basta entrar no seguinte repositorio https://github.com/Kenzie-Academy-Brasil-Developers/desafio-backend-m6/blob/main/CNAB.txt
 
 **LINGUAGENS**
 
